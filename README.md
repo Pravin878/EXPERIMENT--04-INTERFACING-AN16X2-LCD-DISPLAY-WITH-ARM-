@@ -1,4 +1,4 @@
-![exp 4 output](https://github.com/user-attachments/assets/b3d9f4b4-15b3-45aa-8620-67c771d4e322)# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
