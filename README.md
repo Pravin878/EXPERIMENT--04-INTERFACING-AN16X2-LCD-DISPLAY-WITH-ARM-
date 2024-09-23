@@ -273,7 +273,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Uploading image.png…]()
+![Uploading Screenshot 2024-09-23 085518.png…]()
+
 
 
  
